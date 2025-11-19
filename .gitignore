@@ -1,0 +1,12 @@
+# Ignore node modules folder
+node_modules/
+
+# Ignore environment files (API keys, passwords)
+.env
+
+# Ignore log files
+*.log
+
+# Ignore temporary system files
+.DS_Store
+Thumb.db
